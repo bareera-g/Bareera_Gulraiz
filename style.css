@@ -30,4 +30,8 @@ body {
     padding: 1rem;
     background: #eee;
   }
+
+  html {
+    scroll-behavior: smooth;
+  }
   
